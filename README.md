@@ -1,4 +1,4 @@
-# Deep Learning
+# Funding Success Analysis
 <p><b>1. Overview</b><span style="font-weight: 400;">: Purpose of this analysis.</span></p>
 <p><span style="font-weight: 400;">The purpose of this analysis was to determine whether funding provided by Alphabet Soup to different applicants will result in the execution of a successful venture or not. What success means is not clearly defined, but it is indicated as a boolean variable. However, defining success differently (such as achieving certain valuation for their venture) might result in a higher quality model.</span></p>
 <p><span style="font-weight: 400;">Furthermore, the income is provided as a range, while the asked amount is provided as a number. My opinion is that utilizing a number for income instead of a range would result in a higher quality model. </span></p>
