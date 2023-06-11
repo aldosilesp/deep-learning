@@ -72,6 +72,7 @@
 </li>
 </ul>
 </ul>
+<br></br>
 <p><b>3. Summary</b><span style="font-weight: 400;">: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.</span></p>
 <p><span style="font-weight: 400;">The deep learning model performed better with the Classification and Application Type features, although just slightly (73.71% vs 70.04% accuracy). However, these features are categories, and when encoded they result in a lot of added new features.</span></p>
 <p><span style="font-weight: 400;">I believe this is a poor model because we have poor data with a lot of categorical features with a lot of possible values. My guess is that if we had numerical data instead, and had a more clear definition for success, our model would perform a lot better.</span></p>
