@@ -4,6 +4,7 @@
 <p><span style="font-weight: 400;">Furthermore, the income is provided as a range, while the asked amount is provided as a number. My opinion is that utilizing a number for income instead of a range would result in a higher quality model. </span></p>
 <br></br>
 <p><b>2. Results</b><span style="font-weight: 400;">: Using bulleted lists and images to support your answers, address the following questions:</span></p>
+<p><span style="font-weight: 400;"><img src="https://github.com/aldosilesp/deep-learning/blob/main/Funding.png" alt="" /></span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Data Preprocessing</span></li>
 <ul>
